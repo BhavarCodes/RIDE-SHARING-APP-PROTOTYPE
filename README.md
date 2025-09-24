@@ -22,16 +22,6 @@ The Ride Sharing App is an Android application that allows users to book rides i
 - **Database:** Firebase Firestore (optional for storing ride history and user profiles)
 - **Dependency Management:** Gradle
 
-## Project Members
-
-This project was developed as a group effort by:
-
-- **Joseph Mwamburi** - SB06/JR/MN/14030/2022
-- **Dennis Kemboi** - SB06/JR/MN/14080/2022
-- **Alex Anyega** - SB06/SR/MN/11089/2020
-- **Vincent Sime** - SB06/JR/MN/14083/2022
-- **Peter Mwangi Wachira** - SB06/SR/MN/11091/2020
-
 ## Prerequisites
 
 Before starting, ensure you have the following:
